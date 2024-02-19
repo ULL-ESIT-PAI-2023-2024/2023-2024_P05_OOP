@@ -151,7 +151,7 @@ const mySet2 = new MySet([1, 2, 3, 4])
 mySet2.size                    // 4
 ```
 
-Observe que el constructor de la clase toma como parámetro un array en el que figuran los elementos con los
+Observe que el constructor de la clase puede tomar como parámetro un array en el que figuran los elementos con los
 que se inicializa el conjunto.
 
 Por simplicidad asumiremos que los números que intervienen en los conjutos son todos mayores o iguales que 1.
