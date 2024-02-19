@@ -18,4 +18,3 @@ The project directory organization is as follows:
     ├── exercism
     └── home-work
 
-4 directories
