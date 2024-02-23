@@ -172,7 +172,7 @@ Una vez que lo logre, suba su solución a Exercism.
 
 3.- [Robot Name](https://exercism.org/tracks/typescript/exercises/robot-name)
 
-4.- [Robot Simulator](https://exercism.org/tracks/javascript/exercises/robot-simulator)
+4.- [Robot Simulator](https://exercism.org/tracks/typescript/exercises/robot-simulator)
 
 ## Referencias
 * [Introduction to TypeScript](https://github.com/alu0101329888/Introduction-to-TypeScript)
